@@ -1,8 +1,9 @@
-
+//Please open this solution in VS2019
+//https://leetcode.com/problems/search-in-rotated-sorted-array-ii
+//2021 05 05
 
 #include <iostream>
 #include <vector>
-
 
 using namespace std;
 
