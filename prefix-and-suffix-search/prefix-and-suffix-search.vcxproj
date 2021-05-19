@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5f694d49-02ee-4ef3-b308-61dd60d699c9}</ProjectGuid>
-    <RootNamespace>searchinrotatedsortedarrayii</RootNamespace>
+    <ProjectGuid>{7e632a76-2559-42dc-ad8e-6e7f5b21395f}</ProjectGuid>
+    <RootNamespace>prefixandsuffixsearch</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="search-in-rotated-sorted-array-ii.cpp" />
+    <ClCompile Include="prefix-and-suffix-search.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
