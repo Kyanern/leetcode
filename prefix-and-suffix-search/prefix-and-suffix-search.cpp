@@ -2,6 +2,8 @@
 //https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3728/
 //2021 05 19
 
+//STATUS: ACCEPTED
+
 #include <vector>
 #include <string>
 
